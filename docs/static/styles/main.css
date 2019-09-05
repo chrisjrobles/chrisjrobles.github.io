@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,200i,400,900,900i&display=swap');
+@import url('../fonts/et-book/et-book.css');
+
+.my-quote {
+  font-family: 'Poppins', sans-serif;
+  font-size: 64px;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.title {
+  font-family: "et-book", sans-serif;
+  font-size: 64px;
+  font-weight: bold;
+}
+
+.black {
+  font-family: "et-book", sans-serif;
+  font-size: 32px;
+}
+
+.blue {
+  font-family: "et-book", sans-serif;
+  font-size: 32px;
+  font-style:italic;
+  color: #191970;
+  background-color: rgb(232,122,0,0.5)
+}
